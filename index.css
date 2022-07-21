@@ -1,0 +1,29 @@
+*{
+    /* background-color: aquamarine; */
+    margin: 0;
+    padding: 0;
+    /* width: 60vw; */
+}
+header{
+    width: 60vw;
+    margin-left: 15%;
+}
+
+h2{
+    background-color: aquamarine;
+    width: 60vw;
+}
+form
+{
+    margin-left: 20%;
+    
+}
+.right{
+display: flex;
+}
+
+
+footer
+{
+    margin-left: 20%;
+}
